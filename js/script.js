@@ -78,7 +78,7 @@ const members = {
     serviceBill     :20,
     othersBill      :0,
     runningMonth    :"February-25",
-    previousMonth   :"January-24", // new addDecember
+    previousMonth   :"January-25", // new addDecember
     upComingMonth   :"March 1,2025",
     runningMealRate :56,
 
